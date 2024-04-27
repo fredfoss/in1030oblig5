@@ -11,7 +11,7 @@ author: [Daniel Schneider, Eskil Grinaker Hansen, Oscar Atle Brovold, Fredrik Fo
 
 ### A
 
-![Use case-diagram](use-case-diagram.png)
+![Use case-diagram](bilder/use-case-diagram.png)
 
 ### B
 
@@ -47,4 +47,14 @@ author: [Daniel Schneider, Eskil Grinaker Hansen, Oscar Atle Brovold, Fredrik Fo
 
 ## Oppgave 1 - Klassediagram
 
-![Klassediagram](klassediagram.png)
+![Klassediagram](bilder/klassediagram.png)
+
+## Oppgave 4
+
+### B
+
+*Continuous integration* går ut på at flere utviklere skal kunne bidra til samme kodebase. Dette er første fase av utviklingsprosessen. Hver gang en programmerer gjør en endring i kodebasen vil systemet automatisk sjekke at endringen fungerer godt sammen med resten av koden og kan integreres. Gjør det mulig å oppdage feil raskt og for flere å bidra sammtidig.
+
+*Continuous delivery*, neste steg i prosessen. På dette stadiet skal systemet til en hver tid være klar til å lanseres og alle tester være passert.
+
+*Continuous deployment*, i dette stadiet har man kontinuerlig og automatisk oppdatering på systemet mens det er i bruk.
