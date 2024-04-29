@@ -5,15 +5,15 @@ author: [Daniel Schneider, Eskil Grinaker Hansen, Oscar Atle Brovold, Fredrik Fo
 
 # IN1030 Oblig 5: Modellering av krav
 
-**Daniel Schneider, Eskil Grinaker Hansen, Oscar Atle Brovold og Fredrik Foss-Indrehus**
+*Daniel Schneider, Eskil Grinaker Hansen, Oscar Atle Brovold og Fredrik Foss-Indrehus*
 
 ## Oppgave 0 - Use case for billettsystemet
 
-### A
+### A)
 
 ![Use case-diagram](bilder/use-case-diagram.png)
 
-### B
+### B)
 
 Navn: Bestill billett\
 Primæraktør: Kunde\
@@ -51,7 +51,7 @@ Alternativ flyt 2:
 
 ## Oppgave 2 - Sekvensdiagram
 
-### A
+### A)
 
 Tekstlig beskrivelse for brukstilfellet “Kjøp billett som eksisterende kunde” ved bruk av deres tenkte system
 
