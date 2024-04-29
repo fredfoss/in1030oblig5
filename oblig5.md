@@ -23,27 +23,27 @@ Postbetingelse: Billett med QR-kode
 
 Hovedflyt:
 
-1. Kunde velger film
-2. System viser tilgjengelige tidspunkter
-3. KUnde velger tidspunkt
-4. System presenterer seter
-5. Kunde velger sete
-6. System oppretter betalingsmulighet
-7. Kunde betaler
-8. System returnerer billett
+  1. Kunde velger film
+  2. System viser tilgjengelige tidspunkter
+  3. KUnde velger tidspunkt
+  4. System presenterer seter
+  5. Kunde velger sete
+  6. System oppretter betalingsmulighet
+  7. Kunde betaler
+  8. System returnerer billett
 
 Alternativ flyt:
 
-2.1. Kunde finner ikke passende tidspunkt\
-2.2. Kunde kontakter kundesørvice\
-2.3. Kundeservice foreslår nytt tidspunkt\
-2.4. System sender kunde til setevalgmeny for nytt tidspunkt
+  2.1. Kunde finner ikke passende tidspunkt\
+  2.2. Kunde kontakter kundesørvice\
+  2.3. Kundeservice foreslår nytt tidspunkt\
+  2.4. System sender kunde til setevalgmeny for nytt tidspunkt
 
 Alternativ flyt 2:
 
-7.1. Betalingssystem streiker\
-7.2. Kunde kontakter kundeservice\
-7.3. Kundeservice tilbyr å booke for kunde og sende faktura
+  7.1. Betalingssystem streiker\
+  7.2. Kunde kontakter kundeservice\
+  7.3. Kundeservice tilbyr å booke for kunde og sende faktura
 
 ## Oppgave 1 - Klassediagram
 
@@ -62,23 +62,23 @@ Postbetingelse: Billett som PDF med strekkode\
 
 Hovedflyt:
 
-1. Kunde velger film
-2. System viser tilgjenglig tidspunkter
-3. Kunde velger tidspunkt
-4. System presenterer seter
-5. Kunde velger sete
-6. System ber om brukerinnlogging
-7. Kunde skriver inn innloggingsinformasjon
-8. System gir bekreftelse på kjøp
-9. System sender bekreftelse på epost med billett
+  1. Kunde velger film
+  2. System viser tilgjenglig tidspunkter
+  3. Kunde velger tidspunkt
+  4. System presenterer seter
+  5. Kunde velger sete
+  6. System ber om brukerinnlogging
+  7. Kunde skriver inn innloggingsinformasjon
+  8. System gir bekreftelse på kjøp
+  9. System sender bekreftelse på epost med billett
 
 Alternativ flyt:
 
-6.1. Kunde husker ikke passord\
-6.2. Kunde trykker på "glemt passord"\
-6.3. System spør om epost-addresse\
-6.4. System sender link for å lage nytt passord\
-6.5. Kunde trykker på link og lager nytt passord
+  6.1. Kunde husker ikke passord\
+  6.2. Kunde trykker på "glemt passord"\
+  6.3. System spør om epost-addresse\
+  6.4. System sender link for å lage nytt passord\
+  6.5. Kunde trykker på link og lager nytt passord
 
 ### B)
 
